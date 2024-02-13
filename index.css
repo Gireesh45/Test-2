@@ -59,16 +59,9 @@ font: 1em sans-serif;
     position: relative;
     padding: 10px;
 } 
-.card-container {
-    display: none;
-}
 .input-con:hover {
     background-color: #fde9ee;
     border: 2px solid #fa3a74;
-    height: 200px;
-    .card-container {
-        display: block
-    }
 }
 .con-2 {
    width: 100%;
